@@ -1,0 +1,45 @@
+.banner--about {
+    margin-top: 70px;
+}
+
+.main-about {
+    background-color: #fff;
+}
+.about__img--child {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.about__info {
+   padding: 20px;
+   margin-left: 20px;
+}
+
+.about__header {
+    font-size: 33px;
+    font-weight: 600;
+    margin-left: 40px;
+}
+
+.about__desc {
+    font-size: 18px;
+    margin-left: 40px;
+}
+
+.about__item li{
+    margin-top: 10px;
+}
+
+.about__icon--check {
+    color: #54b963;
+    font-size: 18px;
+    margin-right: 6px;
+}
+
+.about__btn {
+   text-align: center;
+}
+
+.btn__about {
+    font-size: 17px;
+}
